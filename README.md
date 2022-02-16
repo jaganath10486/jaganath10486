@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm S Naga Jaganath</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaganath10486&label=Profile%20views&color=0e75b6&style=flat" alt="jaganath10486" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganath10486" alt="jaganath10486" /></a> </p>
 
-- 🔭 I’m Currently studing in **IIITDM KANCHEEPURAM Btech 2md**
+- 🔭 I’m Currently studing in **IIITDM KANCHEEPURAM Btech 2nd Year**
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects Projects**
 
 - 💬 Ask me about **JS,Svelte**
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaganath10486&show_icons=true&locale=en" alt="jaganath10486" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaganath10486&" alt="jaganath10486" /></p>
-

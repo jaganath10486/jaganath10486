@@ -131,8 +131,8 @@ I'm a **Full Stack Engineer with 2+ years of experience** building and shipping 
                     <a href="https://my-portfolio-liart-omega-53.vercel.app/" target="_blank">
                         <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
                     </a>
-              </
+              </p>
 
               <p align="center">
                 <i>"I don't just write code — I engineer solutions that eliminate operational bottlenecks and scale with real-world demand."</i>
-              </p>p></i>
+              </p>
